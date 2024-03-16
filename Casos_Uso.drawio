@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-14T23:01:10.509Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="EUInXiZXHAebEhRUya3b" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-16T15:12:49.763Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="8CJZQSRktqbL4y60MERG" version="24.0.7" type="github">
   <diagram name="Página-1" id="bNIhIHkfopGyE5eCA0E0">
-    <mxGraphModel dx="1674" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1613" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -82,9 +82,9 @@
         <mxCell id="Zfbpf6Yhl-hAXOTM_08G-7" value="Cadastrar Aluno-Napne" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="160" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Zfbpf6Yhl-hAXOTM_08G-19" value="" style="endArrow=open;html=1;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;dashed=1;endFill=0;" parent="1" source="Zfbpf6Yhl-hAXOTM_08G-18" target="Zfbpf6Yhl-hAXOTM_08G-7" edge="1">
+        <mxCell id="Zfbpf6Yhl-hAXOTM_08G-19" value="" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;" parent="1" source="Zfbpf6Yhl-hAXOTM_08G-7" target="Zfbpf6Yhl-hAXOTM_08G-18" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="600" y="330" as="sourcePoint" />
+            <mxPoint x="660" y="170" as="sourcePoint" />
             <mxPoint x="700" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -138,10 +138,10 @@
         <mxCell id="Zfbpf6Yhl-hAXOTM_08G-79" value="Análise Palavra" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="950" y="570" width="110" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Zfbpf6Yhl-hAXOTM_08G-84" value="" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Zfbpf6Yhl-hAXOTM_08G-82" target="Zfbpf6Yhl-hAXOTM_08G-79" edge="1">
+        <mxCell id="Zfbpf6Yhl-hAXOTM_08G-84" value="" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;" parent="1" source="Zfbpf6Yhl-hAXOTM_08G-79" target="Zfbpf6Yhl-hAXOTM_08G-82" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="904" y="931" as="sourcePoint" />
-            <mxPoint x="929" y="870" as="targetPoint" />
+            <mxPoint x="1010" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Zfbpf6Yhl-hAXOTM_08G-85" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" parent="Zfbpf6Yhl-hAXOTM_08G-84" connectable="0" vertex="1">
@@ -159,9 +159,9 @@
         <mxCell id="Zfbpf6Yhl-hAXOTM_08G-10" value="Buscar Fórum Q/A" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="900" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="NhRrBqGY1NpZ_2bom2Ix-14" value="" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;" parent="1" source="Zfbpf6Yhl-hAXOTM_08G-10" target="NhRrBqGY1NpZ_2bom2Ix-12" edge="1">
+        <mxCell id="NhRrBqGY1NpZ_2bom2Ix-14" value="" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;" parent="1" source="NhRrBqGY1NpZ_2bom2Ix-12" target="Zfbpf6Yhl-hAXOTM_08G-10" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="638.44" y="878" as="sourcePoint" />
+            <mxPoint x="480" y="800" as="sourcePoint" />
             <mxPoint x="601.56" y="572" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -180,10 +180,10 @@
         <mxCell id="Zfbpf6Yhl-hAXOTM_08G-39" value="Extends" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" parent="Zfbpf6Yhl-hAXOTM_08G-38" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NhRrBqGY1NpZ_2bom2Ix-20" value="" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;" parent="1" source="Zfbpf6Yhl-hAXOTM_08G-10" target="Zfbpf6Yhl-hAXOTM_08G-12" edge="1">
+        <mxCell id="NhRrBqGY1NpZ_2bom2Ix-20" value="" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;" parent="1" source="Zfbpf6Yhl-hAXOTM_08G-12" target="Zfbpf6Yhl-hAXOTM_08G-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="600" y="890" as="sourcePoint" />
-            <mxPoint x="624" y="740" as="targetPoint" />
+            <mxPoint x="480" y="850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NhRrBqGY1NpZ_2bom2Ix-21" value="Extends" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" parent="NhRrBqGY1NpZ_2bom2Ix-20" connectable="0" vertex="1">
