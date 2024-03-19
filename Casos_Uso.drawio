@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-19T00:43:36.011Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="jaLjbDDfoWneexafnByZ" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-19T12:25:34.770Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="nBLhlTyDVJKaDgIl5M86" version="24.0.7" type="github">
   <diagram name="Página-1" id="bNIhIHkfopGyE5eCA0E0">
-    <mxGraphModel dx="2150" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1750" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -150,13 +150,13 @@
         <mxCell id="Zfbpf6Yhl-hAXOTM_08G-68" value="Sugestão de Palavras" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="870" y="720" width="110" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="NhRrBqGY1NpZ_2bom2Ix-12" value="Gerenciar Publicacao" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="NhRrBqGY1NpZ_2bom2Ix-12" value="Contribuir no Fórum&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="700" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Zfbpf6Yhl-hAXOTM_08G-14" value="Gerenciar Topicos" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="700" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Zfbpf6Yhl-hAXOTM_08G-10" value="Buscar Publicacao" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Zfbpf6Yhl-hAXOTM_08G-10" value="Buscar Publicaçôes" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="900" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NhRrBqGY1NpZ_2bom2Ix-14" value="" style="endArrow=open;html=1;rounded=0;dashed=1;endFill=0;" parent="1" source="NhRrBqGY1NpZ_2bom2Ix-12" target="Zfbpf6Yhl-hAXOTM_08G-10" edge="1">
@@ -221,6 +221,9 @@
             <mxPoint x="180" y="239" as="sourcePoint" />
             <mxPoint x="625" y="494" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LHRYbfzAcx803rMYeG83-14" value="IFCoders" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="210" y="90" width="880" height="940" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
